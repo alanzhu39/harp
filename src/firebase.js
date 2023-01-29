@@ -76,4 +76,4 @@ async function getPractionerScore(practionerId) {
   });
 }
 
-getPractionersByLocation('103640803');
+getPractionerScore('144091789');
